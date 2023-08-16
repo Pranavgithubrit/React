@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 135,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Hackaday"
+    },
+    "author": "Bryan Cockfield",
+    "title": "Commodore 64 Reports the News",
+    "description": "In the late 80s and into the 90s, [Cameron Kaiser] aka [ClassicHasClass] was an aspiring journalist, first becoming interested in the career in elementary school and then working on various …read more",
+    "url": "https://hackaday.com/2023/03/22/commodore-64-reports-the-news/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2023/03/c64-paper.jpg",
+    "publishedAt": "2023-03-23T05:00:21Z",
+    "content": "In the late 80s and into the 90s, [Cameron Kaiser] aka [ClassicHasClass] was an aspiring journalist, first becoming interested in the career in elementary school and then working on various publicati… [+2110 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Patrick Bellmer",
+    "title": "heise+ | Smarte Klingel mit HomeKit und SD-Karte: Aqara Smart Video Doorbell G4 im Test",
+    "description": "Aqaras Video-Türklingel unterstützt die Smart-Home-Plattformen von Amazon, Apple und Google. Aufnahmen landen wahlweise in der Cloud oder auf der Speicherkarte.",
+    "url": "https://www.heise.de/tests/Smarte-Klingel-mit-HomeKit-und-SD-Karte-Aqara-Smart-Video-Doorbell-G4-im-Test-7487359.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/4/5/0/4/aufmacher-b530b85c599b10f2.jpeg",
+    "publishedAt": "2023-03-23T05:00:00Z",
+    "content": "Inhaltsverzeichnis\r\nMit einer smarten Video-Türklingel sehen Sie bereits vor dem Öffnen, wer vor der Tür steht. Wollen Sie den Besuch nicht empfangen, können Sie so einfach Ihre Abwesenheit vortäusch… [+1898 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Download the new yellow iPhone 14 wallpaper right here",
+    "description": "Apple unveiled a new yellow model for the iPhone 14 and iPhone 14 Plus earlier this year, following its trend of introducing new colors for the current generation iPhone every spring. While the yellow iPhone 14 has exactly the same hardware as the other color…",
+    "url": "https://9to5mac.com/2023/03/22/download-yellow-iphone-14-wallpaper/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/iPhone-14-Yellow-box-hands-on.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-03-23T02:01:49Z",
+    "content": "Apple unveiled a new yellow model for the iPhone 14 and iPhone 14 Plus earlier this year, following its trend of introducing new colors for the current generation iPhone every spring. While the yello… [+1719 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Apple employees face reprisals, possible termination over return to office policy",
+    "description": "Apple reportedly escalates enforcement of its return-to-office policies by tracking badge records to ensure in-person attendance three times a week.Return to office policy enforcement continues to escalateThe COVID-19 pandemic forced most companies to embrace…",
+    "url": "https://appleinsider.com/articles/23/03/23/apple-employees-face-reprisals-possible-termination-over-return-to-office-policy",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/53614-107736-Apple-Park-xl.jpg",
+    "publishedAt": "2023-03-23T00:09:42Z",
+    "content": "Return to office policy enforcement continues to escalate\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple reportedly escalates enforcement of its re… [+1865 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Christine McKee)",
+    "title": "Unlock up to $700 off MacBook Pro laptops, plus $70 off AppleCare",
+    "description": "AppleInsider readers have exclusive access to unlock up to $700 in discounts on MacBook Pro 14-inch laptops equipped with the M1 Pro or M1 Max chip.Save with blowout deals on MacBook ProTo activate the exclusive deals, visit Adorama.com and enter promo code A…",
+    "url": "https://appleinsider.com/articles/23/03/23/unlock-up-to-700-off-macbook-pro-laptops-plus-70-off-applecare",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/53613-107735-macbook-pro-up-to-700-off-xl.jpg",
+    "publishedAt": "2023-03-23T01:54:11Z",
+    "content": "Save with blowout deals on MacBook Pro\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAppleInsider readers have exclusive access to unlock up to $700 in … [+2384 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Playpcesor.com"
+    },
+    "author": "Esor Huang",
+    "title": "ChatGPT 聊天記錄快速找回，完整保存對話頻道分類隨時查閱教學",
+    "description": "之前 ChatGPT 的「對話記錄」就偶爾會出現消失的問題，雖然官方說會完整保存對話記錄，但是有時候就是載入不出來，就算登出、登入也無效。最近幾天問題更嚴重，應該大多數朋友在 ChatGPT 左方的聊天紀錄都無法順利載入。這時候怎麼辦呢？這一篇文章提供幾個解決辦法。",
+    "url": "https://www.playpcesor.com/2023/03/chatgpt_23.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEgvZ_2ewYvrk8xHbMb-DoPQdYHs4FyE5YI2Ltiy_ES5aQTu3BL3JbthplPsOG5BdS75uEn1sJgn1MqnYCqY8UT5jOgQbISld-PvueT5Cd2psmCt_S069q87wMEE-S6JXAKbpPoeMz2sSnnZh_JUxQP5zFfvnJiHZgHMDT5qJpz1_NrxHFFrlws=w1200-h630-p-k-no-nu",
+    "publishedAt": "2023-03-23T02:00:00Z",
+    "content": "之前 ChatGPT 的「對話記錄」就偶爾會出現消失的問題，雖然官方說會完整保存對話記錄，但是有時候就是載入不出來，就算登出、登入也無效。最近幾天問題更嚴重，應該大多數朋友在 ChatGPT 左方的聊天紀錄都無法順利載入。這時候怎麼辦呢？這一篇文章提供幾個解決辦法。\r\n我自己是很看重 ChatGPT 的聊天記錄，有幾個原因：\r\n<ul><li>不同的對話頻道分類，其實就是在那個頻道中「訓練」一個… [+2171 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MSPoweruser"
+    },
+    "author": "Kyrie Mattos",
+    "title": "How to Factory Reset iPad without Apple ID Password 2023 [HOT]",
+    "description": "| Sponsored | Whether you’ve forgotten your password or you wish to sell your iPad or start again, you may need to do a factory reset. Nevertheless, if you don’t know your Apple ID password, the operation may appear to be impossible. Thankfully, there are a f…",
+    "url": "https://mspoweruser.com/how-to-factory-reset-ipad-without-apple-id-password/",
+    "urlToImage": "https://mspoweruser.com/wp-content/uploads/2023/03/2qkrvxgpsq8.jpg",
+    "publishedAt": "2023-03-23T02:26:23Z",
+    "content": "| Sponsored |\r\nWhether you’ve forgotten your password or you wish to sell your iPad or start again, you may need to do a factory reset. Nevertheless, if you don’t know your Apple ID password, the ope… [+5372 chars]"
+    },
+    {
+    "source": {
+    "id": "lenta",
+    "name": "Lenta"
+    },
+    "author": "Андрей Ставицкий",
+    "title": "Раскрыта судьба старых смартфонов",
+    "description": "Специалисты аналитического агентства CIRP рассказали, что делают пользователи со своими старыми смартфонами. Так, владельцы смартфонов Apple чаще сдают свои устройства в trade-in в счет цены нового аппарата — так поступают 43 процента опрошенных. Большая част…",
+    "url": "https://lenta.ru/news/2023/03/23/old_phones/",
+    "urlToImage": "https://icdn.lenta.ru/images/2023/03/22/17/20230322175806754/share_c7fd3be2b551925d0e953ccae1a45c87.jpg",
+    "publishedAt": "2023-03-23T03:32:08Z",
+    "content": "CIRP , . 9to5Mac.\r\n , , Apple trade-in 43 . 23 , 13 .\r\n , Android- . , Android 54 . 14 trade-in, 11 .\r\n CIRP , iPhone , Apple , Android. , Android- , .\r\n Counterpoint Research , Apple 75 2022 . Samsu… [+10 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "方嘉文",
+    "title": "早报 | 李彦宏称中国难出另一个 OpenAI/视频号用户时长已超朋友圈/特斯拉新 Model 3 曝光",
+    "description": "- HarmonyOS 3 公测招募开启\n- 未来 Apple Watch 表带可能会带芯片#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1540351",
+    "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2023/03/222.001.png",
+    "publishedAt": "2023-03-23T01:06:32Z",
+    "content": "36kr OpenAI \r\nOpenAI AI \r\n ChatGPT \r\nAI \r\n2022 \r\n 5545.5 1% 1449.5 1%\r\n WeChat 13.1 3.5%\r\n 2022 \r\n &amp; \r\nmRNA SYS6006SARS-CoV-2\r\n mRNA \r\nSYS6006 12 \r\nBellingcat Eliot Higgins AI Midjourney 50 Twitt… [+819 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Creative Bloq"
+    },
+    "author": "ian.dean@futurenet.com (Ian Dean)",
+    "title": "Why I think the new Xencelabs Pen Display 24 is the real Wacom beater",
+    "description": "Unboxing the Xencelabs Pen Display 24.",
+    "url": "https://www.creativebloq.com/news/xencelabs-pen-display-24-studio-series",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/g6z3QHcVhHjpsjsQDpseFC-1200-80.jpg",
+    "publishedAt": "2023-03-23T02:00:09Z",
+    "content": "With the reveal of the new Xencelabs Pen Display 24 Studio Series artists, designers and creatives finally have a real alternative to Wacom. This new drawing display features some unique real-world d… [+4956 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "WELT",
+    "title": "Wiederaufbau in der Ukraine kostet laut Weltbank 411 Milliarden Dollar",
+    "description": "Die größten Kriegsschäden seien in den Frontregionen Donezk, Charkiw, Luhansk und Cherson entstanden, heißt es in einer Analyse der Weltbank. Unterdessen verspricht Nato-Generalsekretär Stoltenberg Waffenlieferungen, solange diese „noch nötig“ seien. Mehr im …",
+    "url": "https://www.welt.de/politik/ausland/article244441700/Ukraine-News-Wiederaufbau-in-der-Ukraine-kostet-laut-Weltbank-411-Milliarden-Dollar.html",
+    "urlToImage": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/politik_ausland_nt/mobile242979847/6381350837-ci16x9-w1200/Ukraine-Krieg-Saporischschja.jpg",
+    "publishedAt": "2023-03-23T05:44:51Z",
+    "content": "Die Weltbank veranschlagt die Kosten für Wiederaufbau in der Ukraine nach der russischen Invasion auf 411 Milliarden Dollar (rund 390 Milliarden Euro) über die nächsten zehn Jahre. Insgesamt kalkulie… [+4452 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ascii.jp"
+    },
+    "author": "ASCII",
+    "title": "満員のApple丸の内で大勢で共同作業したらどうなる？ 平岡雄太氏のフリーボード講座に潜入！",
+    "description": "3月16日にApple 丸の内で開催された「Today  at Apple」には、YouTubeなどでiPad活用術の動画を配信している平岡雄太氏が登壇。セッションの模様をレポートします・",
+    "url": "https://weekly.ascii.jp/elem/000/004/129/4129182/",
+    "urlToImage": "https://ascii.jp/img/2023/03/17/3509500/l/7b597d99ea457fb8.png",
+    "publishedAt": "2023-03-23T03:00:00Z",
+    "content": "Apple\r\nApple 316Today at AppleYouTubeiPad\r\n YouTubeAppleiPad\r\nToday at AppleAppleApple\r\n202212iOS 16.2iPadOS 16.2macOS Ventura 13.1\r\niPadiPhoneMac\r\nMiro"
+    },
+    {
+    "source": {
+    "id": "techradar",
+    "name": "TechRadar"
+    },
+    "author": "cesartechradar@gmail.com (Cesar Cadenas)",
+    "title": "Nanoleaf’s upcoming smart lights could be the shining stars that Matter needs",
+    "description": "Available for pre-order, the new Essentials models consist of lightstrips and bulbs, including the oddly-shaped A19",
+    "url": "https://www.techradar.com/news/nanoleafs-upcoming-smart-lights-could-be-the-shining-stars-that-matter-needs",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/jmnf5omnQRrVcschUhf5oK-1200-80.jpg",
+    "publishedAt": "2023-03-23T05:00:37Z",
+    "content": "Nearly three months after a CES 2022 tease\r\n, Nanoleaf returns to the Matter standard with a new set of smart lights for its Essentials series. \r\nThe lineup is split between four different bulbs and … [+2968 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thegospelcoalition.org"
+    },
+    "author": "Rachel McIntosh",
+    "title": "Why We Can Be Patient When Sleep Deprived",
+    "description": "When we’re in a season of little sleep, we can keep asking the Lord to give us more. But let’s not believe the lie that we’re bound to sin in the meantime.",
+    "url": "https://www.thegospelcoalition.org/article/patient-sleep-deprived/",
+    "urlToImage": "https://media.thegospelcoalition.org/wp-content/uploads/2023/03/16081753/patient-sleep-deprived.jpg",
+    "publishedAt": "2023-03-23T04:03:00Z",
+    "content": "I opened WhatsApp and wrote to my friend, “Id love prayer for patience amid sleep deprivation, please!” But what I was actually thinking was: “Please pray for good sleep so I can be patient!”\r\nI was … [+3893 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "3dnews.ru"
+    },
+    "author": null,
+    "title": "Logitech пришлось сократить 300 сотрудников из-за снижения спроса на продукцию",
+    "description": "Компания Logitech, выпускающая компьютерные аксессуары и периферию, являлась одним из бенефициаров пандемии, поскольку переход на удалённую работу в массовом порядке резко увеличил спрос на веб-камеры, гарнитуры, мыши и клавиатуры. По мере спада санитарных ог…",
+    "url": "https://3dnews.ru/1083870/logitech-prishlos-sokratit-300-sotrudnikov-izza-snigeniya-sprosa-na-produktsiyu",
+    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/03/23/1083870/logitech_01.jpg",
+    "publishedAt": "2023-03-23T04:26:00Z",
+    "content": "Logitech, , , -, , . , 300 .\r\n: Logitech\r\n, Logitech 8200 , , . , -, . Apple, , .\r\n Logitech 2023 , 22 % $1,3 . Logitech (Charles Boynton). , . . ."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "cuhiep+3@gmail.com (cuhiep), cuhiep",
+    "title": "Nhân viên Apple bị theo dõi việc đến công ty làm thông qua thẻ nhân viên...",
+    "description": "Nhưng có vẻ như là mục đích cuối cùng là để sa thải nhân viên nào không đến đủ 3 lần trong một tuần. Apple cũng như các công ty lớn khác đang gặp khó khăn về chi phí do tình hình kinh doanh không được tốt đẹp.",
+    "url": "https://tinhte.vn/thread/nhan-vien-apple-bi-theo-doi-viec-den-cong-ty-lam-thong-qua-the-nhan-vien.3647879/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/03/6367329_Apple_Streve_Job_threater.jpg",
+    "publishedAt": "2023-03-23T03:07:34Z",
+    "content": "Nhng có v nh là mc ích cui cùng là sa thi nhân viên nào không n 3 ln trong mt tun. Apple cng nh các công ty ln khác ang gp khó khn v chi phí do tình hình kinh doanh không c tt p. Các công ty ln ã sa … [+826 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Appleの整備済み商品情報 2023/3/23 ｰ ｢Apple Watch Series 8｣が初登場",
+    "description": "本日、Appleのお得な整備済み製品に新たな製品を追加し、「Apple Watch Series 8」の整備済み品が初登場しています。 「Apple Watch Series 8」の整備済み品は、アルミニウムケースとスポ ...",
+    "url": "https://taisy0.com/2023/03/23/169894.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2022/03/applestoreicon2022.jpg",
+    "publishedAt": "2023-03-23T03:27:06Z",
+    "content": "AppleApple Watch Series 8\r\nApple Watch Series 8GPSGPS+Cellular50,800\r\nApple Watch Series 8GPS/41/50,800GPS/45/54,800GPS+Cellular/41/63,800GPS+Cellular/45/67,800\r\nApple1\r\nTwitterFacebook\r\nAppleMacAppl… [+33 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sspai.com"
+    },
+    "author": "少数派编辑部",
+    "title": "派早报：Nothing Ear (2) 正式发布、Microsoft Loop 开放测试等",
+    "description": "DPReview 将于 4 月 10 日停止运营，OPPO、小米、vivo 宣布支持第三方应用数据互相迁移等查看全文",
+    "url": "https://sspai.com/post/78992",
+    "urlToImage": "https://cdn.sspai.com/2023/3/23/article/8c282419-1e51-6fa3-8b77-bd835aaca535.jpg",
+    "publishedAt": "2023-03-23T01:05:09Z",
+    "content": "Nothing Ear (2) \r\n3 22 Nothing CEO YouTube Nothing Ear (2) Nothing Ear (2) 40dB Nothing Ear (2) LHDC 5.0 5.3 Google Fast Pair \r\nNothing Ear (2) IP54 IP55 Nothing Ear (2) 4 22.5 2.5W Qi 10W USB-C Noth… [+480 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "Apple Watchの整備済製品 Apple Watch Series 8 初追加（2023/03/23）",
+    "description": "<!-- テキスト -->\n\nApple.com/jpが、Apple認定の整備済製品で、Apple Watch整備済製品の販売を開始しています。\n\n30,000円以上購入でオリコApple ショッピングローンが24回払いまで金利０%で利用出来ます。\n\nペイディあと払いプランApple専用は利用できません。\n\n整備品情報はメールマガジンでもお知らせしています。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\n<ul>\n<li>…",
+    "url": "https://www.macotakara.jp/sale/entry-44501.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202005/40b972a198551055475767f5761d35058b7bf9da73bcf0442bcebc60cf91775b.png",
+    "publishedAt": "2023-03-23T02:33:20Z",
+    "content": "<ul><li>Apple Watch Series 8GPS- 41mm50,800</li><li>Apple Watch Series 8GPS- 45mm54,800</li><li>Apple Watch Series 8GPS+Cellular- 41mm63,800</li><li>Apple Watch Series 8GPS+Cellular- 45mm67,800</li><… [+1006 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphones.ru"
+    },
+    "author": "Артём Баусов",
+    "title": "Россияне стали покупать более дорогие смартфоны, за квартал расходы выросли на 35%",
+    "description": "Расходы россиян на смартфоны менее чем за квартал выросли на 10%. Об этом рассказали Известиям сотрудники одного из ритейлеров и подтвердили в МТС. Средний чек на смартфоны в начале марта по сравнению с концом декабря 2022 года вырос с 21,5 до 23,5 тыс. рубле…",
+    "url": "https://www.iphones.ru/iNotes/rossiyane-stali-pokupat-bolee-dorogie-smartfony-za-kvartal-rashody-vyrosli-na-35-03-23-2023",
+    "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F03%2FIMG_9706.jpeg",
+    "publishedAt": "2023-03-23T05:44:11Z",
+    "content": "10%. .\r\n 2022 21,5 23,5 . (9%), . , 35%.\r\n , 23 8 .\r\n 20% , 2021 . , Apple Samsung. . \r\n 2023 , , . «» , , . []"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacGeneration"
+    },
+    "author": "Mickaël Bazoge",
+    "title": "Sortie de veille (23/03) : bientôt de nouveaux AirPods et Beats ? / Portrait de TSMC, partenaire indispensable d'Apple",
+    "description": "Tout sur le Mac : actualités, nouveautés, rumeurs, tests, trucs & astuces, forums, petites annonces, guide d’achat…",
+    "url": "https://www.macg.co/podcasts/2023/03/sortie-de-veille-2303-bientot-de-nouveaux-airpods-et-beats-portrait-de-tsmc-partenaire-indispensable-dapple-135593",
+    "urlToImage": "https://files.staticmacg.com/macgupload/icon.png",
+    "publishedAt": "2023-03-23T05:00:20Z",
+    "content": "Tous les matins de la semaine, écoutez Sortie de veille, le podcast quotidien du Club iGen ! En plus ou moins dix minutes, on fait le tour de l'actualité de la veille, avec en plus un test, une inter… [+471 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gori.me"
+    },
+    "author": "g.O.R.i",
+    "title": "Series 8が初登場、5万円から。Apple Watch整備済商品の最新情報（2023年3月23日更新）",
+    "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はApple Wat…\nThe post Series 8が初登場、5万円から。Apple Watch整備済商品の最新情報（2023年3月23日更新） first appeared on ゴリミー. 【もっと読む】",
+    "url": "https://gori.me/sale/apple-refurbished/146887",
+    "urlToImage": "https://gori.me/uploads/2023/03/AppleWatch-Refurbished-model-2023-03-23-800x542.jpg",
+    "publishedAt": "2023-03-23T02:29:29Z",
+    "content": "15AppleApple Watch\r\nApple Watch Series 850,800AmazonApple Watch SE29\r\n<ul><li>Apple Watch SEGPS- 40mm  29,800</li><li>Apple Watch SEGPS- 40mm  29,800</li><li>Apple Watch SEGPS- 44mm  33,800</li><li>A… [+1668 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AdExchanger"
+    },
+    "author": "AdExchanger",
+    "title": "First Come, First Served For First-Party Data; The Gray Lady Goes Gangbusters With Games",
+    "description": "Here’s today’s AdExchanger.com news round-up… Want it by email? Sign up here. Network To Get Work Being called an “ad network” is a major slur for ad tech companies. It\nThe post First Come, First Served For First-Party Data; The Gray Lady Goes Gangbusters Wit…",
+    "url": "http://www.adexchanger.com/ad-exchange-news/thursday-23032023/",
+    "urlToImage": "https://www.adexchanger.com/wp-content/uploads/2015/12/searchyourfeelings-e1663278656838.jpg",
+    "publishedAt": "2023-03-23T04:03:43Z",
+    "content": "Heres todays AdExchanger.com news round-up Want it by email? Sign up here.\r\nNetwork To Get Work\r\nBeing called an ad network is a major slur for ad tech companies. It implies arbitrage and obfuscation… [+4417 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MobileSyrup"
+    },
+    "author": "Dean Daley",
+    "title": "Xbox Canada announces new podcast, ‘Xbox Passport’",
+    "description": "Xbox Canada has launched a new podcast called Xbox Passport, a Game Pass podcast hosted by Leah Jewer, the co-founder of Girls on Games, and Steve Saylor, a notable accessibility advocate. The inaugural episode of Xbox Passport features Larry Hryb (Major Nels…",
+    "url": "https://mobilesyrup.com/2023/03/22/xbox-canada-xbox-passport-podcast/",
+    "urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2023/03/xbox-series-x-on-1.jpg",
+    "publishedAt": "2023-03-23T00:02:53Z",
+    "content": "Xbox Canada has launched a new podcast called Xbox Passport, a Game Pass podcast hosted by Leah Jewer, the co-founder of Girls on Games, and Steve Saylor, a notable accessibility advocate.\r\nThe inaug… [+576 chars]"
+    },
+    {
+    "source": {
+    "id": "the-american-conservative",
+    "name": "The American Conservative"
+    },
+    "author": "Jude Russo",
+    "title": "The Eight-Year-Old’s Iraq",
+    "description": "Twenty years after the Iraq invasion: It was the last period of true optimism, a sense that every line went endlessly up, and that somewhere in the unknown unknowns we would meet destiny and, perhaps, God.\nThe post The Eight-Year-Old’s Iraq appeared first on …",
+    "url": "https://www.theamericanconservative.com/the-eight-year-olds-iraq/",
+    "urlToImage": "https://www.theamericanconservative.com/wp-content/uploads/2023/03/GettyImages-1220348733-scaled.jpg",
+    "publishedAt": "2023-03-23T04:05:00Z",
+    "content": "I was an avid supporter of the Iraq invasion in 2003. I believed that Saddam Hussein was a tyrant and a danger to American interests; I believed that, as a civilization, we had a God-given mission to… [+6954 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vnexpress.net"
+    },
+    "author": "Tuấn Hưng",
+    "title": "iPhone chính hãng bảo hành không cần hóa đơn",
+    "description": "Người dùng điện thoại iPhone mã VN/A không cần mang theo hóa đơn mua hàng và giấy tờ tùy thân để bảo hành như trước.",
+    "url": "https://vnexpress.net/iphone-chinh-hang-bao-hanh-khong-can-hoa-don-4584402.html",
+    "urlToImage": "https://vcdn1-sohoa.vnecdn.net/2023/03/22/a2-8266-1679482136.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IsJKrXR4DL0-3flNmDTHiQ",
+    "publishedAt": "2023-03-23T01:00:00Z",
+    "content": "Ngi dùng in thoi iPhone mã VN/A không cn mang theo hóa n mua hàng và giy t tùy thân bo hành nh trc.Theo mt h thng y quyn (ASP), t 1/4, các trung tâm ca Apple có th tip nhn ngay iPhone sau khi kim tra… [+1641 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vnexpress.net"
+    },
+    "author": "VnExpress",
+    "title": "Khách mua Peugeot 3008 nhận ưu đãi đến 26 triệu đồng",
+    "description": "Chương trình ưu đãi của Peugeot áp dụng trong tháng 3 cho mẫu xe gầm cao 3008, gồm ưu đãi giá và bảo hiểm vật chất.",
+    "url": "https://vnexpress.net/khach-mua-peugeot-3008-nhan-uu-dai-den-26-trieu-dong-4573993.html",
+    "urlToImage": "https://i2-vnexpress.vnecdn.net/2023/03/23/1-1679537299-1679537309-2213-1679537395.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xochxIDNmEeVrLIsqpqcpg",
+    "publishedAt": "2023-03-23T02:00:00Z",
+    "content": "Chng trình u ãi ca Peugeot áp dng trong tháng 3 cho mu xe gm cao 3008, gm u ãi giá và bo him vt cht.Peugeot Vit Nam u ãi cho khách mua 3008 gm 10 triu ng và quà tng 1 nm bo him vt cht, có giá tr quy … [+2788 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GamesIndustry.biz"
+    },
+    "author": "Marie Dealessandri",
+    "title": "Tim Sweeney believes the metaverse is \"happening for real\"",
+    "description": "Epic Games showcased its vision for a metaverse at today’s State of Unreal, during which it unveiled more details about the economy around its Unreal Editor for Fortnite, a new unified marketplace, Fab, which offers assets across several game engines, new Met…",
+    "url": "https://www.gamesindustry.biz/tim-sweeney-believes-the-metaverse-is-happening-for-real",
+    "urlToImage": "https://assets.reedpopcdn.com/Tim-Sweeney.jpg/BROK/thumbnail/1200x630/Tim-Sweeney.jpg",
+    "publishedAt": "2023-03-23T00:45:24Z",
+    "content": "Epic Games showcased its vision for a metaverse at today’s State of Unreal, during which it unveiled more details about the economy around its Unreal Editor for Fortnite, a new unified marketplace, F… [+5662 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Kelvin Chan and Haleluya Hadero",
+    "title": "TikTok CEO faces off with Congress over security fears",
+    "description": "The CEO of TikTok will make a high-profile appearance Thursday before a U.S. Congressional committee to make the case for why the hugely popular video-sharing app shouldn’t be banned",
+    "url": "https://www.independent.co.uk/news/ceo-ap-bytedance-tiktok-washington-b2306375.html",
+    "urlToImage": "https://static.independent.co.uk/2023/03/23/04/TikTok_63147.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-03-23T04:00:07Z",
+    "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nThe CEO of TikTok will make a high-profile appearanc… [+4431 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Sam Metz",
+    "title": "Gwyneth Paltrow ski collision trial set for family testimony",
+    "description": "The daughters of a man suing Gwyneth Paltrow are expected to appear on Thursday as a trial about the pair’s 2016 ski collision continues",
+    "url": "https://www.independent.co.uk/news/gwyneth-paltrow-ap-salt-lake-city-north-america-brad-falchuk-b2306401.html",
+    "urlToImage": "https://static.independent.co.uk/2023/03/23/05/Gwyneth_Paltrow_Skiing_Lawsuit_68722.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-03-23T05:10:18Z",
+    "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nThe two daughters of a retired optometrist suing Gwy… [+2115 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "PR Newswire",
+    "title": "Outlook on the Smart Wearables Global Market to 2032: Increasing Demand for Wireless Sports and Fitness Devices is Projected to Drive Growth",
+    "description": "The \"Smart Wearables Global Market Report 2023\" report has been added to ResearchAndMarkets.com's offering.",
+    "url": "https://finance.yahoo.com/news/outlook-smart-wearables-global-market-020000905.html",
+    "urlToImage": "https://media.zenfs.com/en/prnewswire.com/e75ef6f3096d7cb6f5dd43ba82eca2fe",
+    "publishedAt": "2023-03-23T02:00:00Z",
+    "content": "DUBLIN, March 22, 2023 /PRNewswire/ -- The \"Smart Wearables Global Market Report 2023\" report has been added to  ResearchAndMarkets.com's offering.\r\nResearch and Markets Logo\r\nThis report provides st… [+8331 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Lizette Chapman, Anna Edgerton and Alex Barinka",
+    "title": "China Hawks Dine on Seared Branzino And Lament Threat to US",
+    "description": "(Bloomberg) -- Peter Thiel likened US-China ties to a codependent marriage and lamented the rise of TikTok at a dinner for venture capitalists and lawmakers ...",
+    "url": "https://finance.yahoo.com/news/china-hawks-dine-seared-branzino-042349146.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hs2wzEOM7wUITyrY7bzJ8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/942b0fa9d204180f970b3722c67b8205",
+    "publishedAt": "2023-03-23T04:23:49Z",
+    "content": "(Bloomberg) -- Peter Thiel likened US-China ties to a codependent marriage and lamented the rise of TikTok at a dinner for venture capitalists and lawmakers a day before the apps chief executive test… [+3106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Savita Patel - Reporter",
+    "title": "California considers ban on caste discrimination",
+    "description": "California could become the first US state to make caste discrimination illegal if a new bill is passed.",
+    "url": "https://news.yahoo.com/california-considers-ban-caste-discrimination-052716831.html",
+    "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/48610b04778bc89f0edbeecea398ab0f",
+    "publishedAt": "2023-03-23T05:27:16Z",
+    "content": "Supporters of the bill say caste discrimination requires a legislative solution\r\nOn Wednesday, a California lawmaker introduced a bill to make caste discrimination illegal in the state's senate. If i… [+6024 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Jonathan Josephs - Business reporter, BBC News",
+    "title": "US firms 'more negative' about doing business in China",
+    "description": "Five years since the trade war started, American firms seem less inclined to invest in China.",
+    "url": "https://news.yahoo.com/us-firms-more-negative-doing-000715234.html",
+    "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/7ccc1de67a75fd7e19680c7239e48aa7",
+    "publishedAt": "2023-03-23T00:07:15Z",
+    "content": "President Biden and President Xi met at the G20 in Indonesia in November but have numerous differences\r\nUS companies are \"more negative than they've been in a long time\" about doing business in China… [+8024 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news-au",
+    "name": "ABC News (AU)"
+    },
+    "author": "ABC News",
+    "title": "Gwyneth Paltrow ski collision trial hears from doctors describing x-rays, brain scans and neurological tests",
+    "description": "Two doctors describe x-rays, brain scans and neurological tests documenting the medical condition of a man suing Gwyneth Paltrow over a 2016 ski collision at an upscale Utah resort.",
+    "url": "https://www.abc.net.au/news/2023-03-23/gwyneth-paltrow-ski-collision-trial-brings-doctors-to-stand/102134072",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1d2f041f29660c8392881a2be6e6b3d1?impolicy=wcms_crop_resize&cropH=2543&cropW=4520&xPos=0&yPos=179&width=862&height=485",
+    "publishedAt": "2023-03-23T01:16:24Z",
+    "content": "Two doctors have described x-rays, brain scans and neurological tests documenting the medical condition of a man suing Gwyneth Paltrow over a 2016 ski collision at an upscale Utah resort. \r\nKey point… [+5530 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SNY.tv"
+    },
+    "author": "SNY",
+    "title": "Giants impress Ohio State WR Jaxon Smith-Njigba at Pro Day: ‘I would love to be in the Big Apple’",
+    "description": "Nine Giants officials attended Ohio State's Pro Day to see prospects like wide receiver Jaxon Smith-Njigba.",
+    "url": "https://sny.tv/articles/giants-ohio-state-wr-jaxon-smith-njigba-pro-day-dinner-draft",
+    "urlToImage": "https://media.zenfs.com/en/sny_articles_235/57922e6425674cf7c2abebcfb374e37c",
+    "publishedAt": "2023-03-23T04:11:41Z",
+    "content": "Ohio State Buckeyes wide receiver Jaxon Smith-Njigba catches a pass during Ohio State football s pro day at the Woody Hayes Athletic Center in Columbus on March 22, 2023. Football Ceb Osufb Pro Day /… [+1951 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "POLL: Grade Draft Wire’s new 3-round mock draft for Cardinals",
+    "description": "Draft Wire had a three-round mock draft. Grade the picks for the Cardinals.",
+    "url": "https://cardswire.usatoday.com/2023/03/22/poll-grade-draft-wires-new-3-round-mock-draft-for-cardinals/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Uov6yccEx9tueTC7A8rdVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/164b24474225f0d0980ce798813eb58f",
+    "publishedAt": "2023-03-23T02:19:43Z",
+    "content": "As we continue through NFL draft season, we will see scores of mock drafts. A new one from Draft Wire managing editor Jeff Risdon has the Arizona Cardinals taking three defensive players with their f… [+1075 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Paul Tan's Automotive News"
+    },
+    "author": "Gerard Lye",
+    "title": "Bangkok 2023: Lexus RX 450h+ – AWD PHEV with 87 km EV range; Luxury and Premium; from RM602k",
+    "description": "The fifth-generation Lexus RX was launched in Thailand last November and is currently on display at the ongoing Bangkok International Motor Show (BIMS), so here’s a gallery of redesigned SUV that competes against the BMW […]\nThe post Bangkok 2023: Lexus RX 45…",
+    "url": "https://paultan.org/2023/03/23/bangkok-2023-fifth-gen-lexus-rx-450h/",
+    "urlToImage": "https://paultan.org/image/2023/03/2023_BIMS_Lexus_RX450h-1-1200x801.jpg",
+    "publishedAt": "2023-03-23T03:51:59Z",
+    "content": "The fifth-generation Lexus RX was launched in Thailand last November and is currently on display at the ongoing Bangkok International Motor Show (BIMS), so heres a gallery of redesigned SUV that comp… [+3835 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Paul Tan's Automotive News"
+    },
+    "author": "Mick Chan",
+    "title": "2023 Ford Explorer EV for Europe – RWD and AWD, up to 340 PS and 498 km of range; from RM217,125",
+    "description": "The Ford Explorer goes fully electric and has been ‘designed for Europe’, having become more compact compared to its predecessor and measuring less than 4.5 m long “for exploring in compact European cities and beyond.” For comparison, the 2020 Explorer measur…",
+    "url": "https://paultan.org/2023/03/23/2023-ford-explorer-ev-for-europe-rwd-and-awd-up-to-340-ps-and-498-km-of-range-from-rm217125/",
+    "urlToImage": "https://paultan.org/image/2023/03/2023-ford-explorer-electric-5-e1679534947372-1200x628.jpg",
+    "publishedAt": "2023-03-23T04:56:41Z",
+    "content": "The Ford Explorer goes fully electric and has been ‘designed for Europe’, having become more compact compared to its predecessor and measuring less than 4.5 m long “for exploring in compact European … [+18025 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Www.nzz.ch"
+    },
+    "author": "David Vogel (dv), Antonia Moser (ata)",
+    "title": "PODCAST - Das Scheitern der Credit Suisse schien unmöglich. Ein Unfall ist es aber nicht",
+    "description": "Die Schweizer Bank hatte 2007 einen Börsenwert von 100 Milliarden Franken. Jetzt wird sie von der Konkurrentin UBS für 3 Milliarden übernommen. Wie konnte die zweitgrösste Bank der Schweiz derart abstürzen?",
+    "url": "https://www.nzz.ch/podcast/der-absturz-der-credit-suisse-nzz-akzent-ld.1731754",
+    "urlToImage": "https://img.nzz.ch/2023/03/22/6d506c31-b67a-4866-8e08-86a83c18d65f.jpeg?width=1200&height=674&fit=bound&quality=75&auto=webp&crop=2644,1486,x0,y3&wmark=nzz",
+    "publishedAt": "2023-03-23T04:30:00Z",
+    "content": "Hören und abonnieren Sie den Podcast «NZZ Akzent» auch auf Spotify,Apple Podcasts oder Castbox.\r\nHaben Sie ein Feedback zum Podcast? Sagen Sie uns Ihre Meinung.\r\nIn dieser Podcast-Episode:\r\nVor 15 Ja… [+1149 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "邱 倢芯",
+    "title": "蘋果再度出手打擊遠距工作，追蹤員工出勤紀錄",
+    "description": "疫情已進入尾端，部分企業開始要求員工都得回辦公室工作，就連蘋果也不意外；現在蘋果要求員工必須要每週進辦公室 3 天，且為了確保員工真有出席，因此現在開始密切地監控每位員工的打卡紀錄。 《Platformer》總編輯 Zoë Schiffer 在自己的 Twitter 上指稱，假若員工們不滿現在的面對...",
+    "url": "https://technews.tw/2023/03/23/apple-employee-can-not-work-from-home/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2018/09/12144529/carles-rabada-635092-unsplash-e1536734742870.jpg",
+    "publishedAt": "2023-03-23T02:13:32Z",
+    "content": "At Apple, some orgs are saying failure to comply could result in termination, but that doesn’t appear to be a company-wide policy.\r\n Zoë Schiffer (@ZoeSchiffer) March 22, 2023"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vulture"
+    },
+    "author": "Bethy Squires",
+    "title": "Vanessa: Blumhouse Is Making a Five Nights at Freddy’s Movie",
+    "description": "Josh Hutcherson, Matthew Lillard have joined the cast of the ‘Five Nights at Freddy’s’ movie. Blumhouse has tapped ‘Into the Dark: Blood Moon’ director Emma Tammi and Jim Henson’s Creature Shop for the film, which begins production in February 2023.",
+    "url": "http://www.vulture.com/article/blumhouse-five-nights-at-freddys-movie-details.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/2e7/96b/e04f1d9b60c31d949ae875f89c49ef3c04-FNAF-.1x.rsocial.w1200.png",
+    "publishedAt": "2023-03-23T00:41:00Z",
+    "content": "Weve finally got some players for Blumhouses official Five Nights at Freddys movie. A day after Deadline announced that Josh Hutcherson and Matthew Lillard were the first actors to join the cast, we … [+1798 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HipHopDX"
+    },
+    "author": "Alexis Oatman",
+    "title": "Tony Yayo Recalls Advice From Ludacris' Manager That Made Him 'Who I Am'",
+    "description": "Tony Yayo has opened up about a very valuable piece of advice that was given to him back in the day by Ludacris' longtime manager, Chaka Zulu.",
+    "url": "https://hiphopdx.com/news/tony-yayo-recalls-advice-ludacris-manager-chaka-zulu",
+    "urlToImage": "https://static.hiphopdx.com/2023/03/tony-yayo-recalls-advice-from-ludacris-manager-that-made-him-who-i-am-1200x675.png",
+    "publishedAt": "2023-03-23T00:30:15Z",
+    "content": "Tony Yayo has opened up about a very valuable piece of advice that was given to him back in the day by Ludacris‘ longtime manager, Chaka Zulu.\r\nDuring an interview with Vlad TV, both the former G-Uni… [+2569 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Apple 苹果 iPhone 14 Pro 5G智能手机 256GB 7559元包邮（需用券）",
+    "description": "Apple 苹果 iPhone 14 Pro 5G智能手机 256GB 7558元（需用券）,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/75694077/",
+    "urlToImage": "https://qny.smzdm.com/202303/23/641b9395cd6099442.jpg_d250.jpg",
+    "publishedAt": "2023-03-23T01:06:19Z",
+    "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPhone 14 Pro 5G智能手机 128GB 7199元包邮（需用券）",
+    "description": "京东Apple产品京东自营旗舰店现售价7999元。买1件，使用满4000减800券。每件低至7199元。叠加优惠券：满4000减800元",
+    "url": "https://www.smzdm.com/p/75693577/",
+    "urlToImage": "https://qny.smzdm.com/202209/08/63195163589257451.jpg_d250.jpg",
+    "publishedAt": "2023-03-23T02:21:57Z",
+    "content": "iPhone 14 Pro6.12556*1179460PPIApp1000HDR16002000 ProMotion Super Retina XDR 1 Hz120 HzAlways-On\r\niPhone 14 ProA164nm160 6 CPU A1520%A16 Bionic 5 GPU 50% 16 17 iPhone 14 Pro23\r\niPhone 14 Pro48002ProR… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "Kyle Porter",
+    "title": "2023 WGC-Dell Match Play leaderboard, scores: Rickie Fowler upsets Jon Rahm, Jordan Spieth hits walk-off chip",
+    "description": "Top seeds went 11-5 in the opening matches on Thursday in Austin",
+    "url": "https://www.cbssports.com/golf/news/2023-wgc-dell-match-play-leaderboard-scores-rickie-fowler-upsets-jon-rahm-jordan-spieth-hits-walk-off-chip/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/22/092460a6-b4bd-4717-9261-59d3162b5f92/thumbnail/1200x675/1dd71c3976dba677406c11f99733cff5/rahm-rick-2023-match-play.jpg",
+    "publishedAt": "2023-03-23T00:46:26Z",
+    "content": "AUSTIN, Texas -- The final edition of the 2023 WGC-Dell Match Play opened with a bang Wednesday as top seeds fell, big names rolled and of course (of course!) Jordan Spieth made a preposterous shot t… [+5818 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Graham Cluley Security News"
+    },
+    "author": "Graham Cluley",
+    "title": "Smashing Security podcast #314: Photo cropping bombshell, TikTok debates, and real estate scams",
+    "description": "It could be a case of aCropalypse now for Google Pixel users, there’s a warning for house buyers, and just why is TikTok being singled out for privacy concerns?\n\nAll this and much much more is discussed in the latest edition of the “Smashing Security” podcast…",
+    "url": "https://grahamcluley.com/smashing-security-podcast-314/",
+    "urlToImage": "https://grahamcluley.com/wp-content/uploads/2023/03/ss-episode-314.jpeg",
+    "publishedAt": "2023-03-23T00:31:28Z",
+    "content": "It could be a case of aCropalypse now for Google Pixel users, theres a warning for house buyers, and just why is TikTok being singled out for privacy concerns?\r\nAll this and much much more is discuss… [+1559 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "buddysayshi",
+    "title": "[iOS] Home Run High $0 (Was $7.99) @ Apple App Store",
+    "description": "From the website:\nTrain your baseball players and create a winning team!\n\nCan you lead your high school baseball team to ultimate victory? It might be a small after-school club now, but with the right training, even the sky isn't the limit for this team!\n\nTra…",
+    "url": "https://www.ozbargain.com.au/node/764294",
+    "urlToImage": "https://files.ozbargain.com.au/n/94/764294l.jpg?h=b4c9b714",
+    "publishedAt": "2023-03-23T00:08:56Z",
+    "content": "From the website:Train your baseball players and create a winning team!\r\nCan you lead your high school baseball team to ultimate victory? It might be a small after-school club now, but with the right… [+668 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MMA Fighting"
+    },
+    "author": "Jed Meshew",
+    "title": "No Bets Barred: Can Marlon Vera keep things rolling against Cory Sandhagen at UFC San Antonio?",
+    "description": "Co-hosts Conner Burks and Jed Meshew return to break down UFC San Antonio, including a number of over/under plays and a new bet that might become the next big thing in MMA gambling.",
+    "url": "https://www.mmafighting.com/2023/3/22/23650944/no-bets-barred-can-marlon-vera-keep-things-rolling-against-cory-sandhagen-at-ufc-san-antonio",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/7s4IwP2Ks2VPwcOY_4d0oIYsq6g=/0x410:3606x2298/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24526717/1414711844.jpg",
+    "publishedAt": "2023-03-23T01:00:00Z",
+    "content": "Marlon ‘Chito’ Vera | Photo by Jeff Bottari/Zuffa LLC\r\n\n \n\n This Saturday the UFC concludes an eight-week stretch of events with UFC San Antonio, headlined by a bantamweight matchup between Marlon ‘C… [+1007 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "mobiFlip.de"
+    },
+    "author": "Oliver Schwuchow",
+    "title": "Das Pebble-Team träumt noch von einem kleinen Android-Flaggschiff",
+    "description": "Kennt ihr noch Pebble? Die Erfinder der Smartwatch? Nun, es ist nicht immer ein Vorteil, wenn man der Erste in einer Kategorie ist. Pebble wurde erst von Fitbit übernommen und Fitbit gehört mittlerweile zu Google.",
+    "url": "https://www.mobiflip.de/shortnews/pebble-team-traum-klein-android-flaggschiff/",
+    "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/02/samsung-galaxy-s23-hand.jpg",
+    "publishedAt": "2023-03-23T05:30:55Z",
+    "content": "Kennt ihr noch Pebble? Die Erfinder der Smartwatch? Nun, es ist nicht immer ein Vorteil, wenn man der Erste in einer Kategorie ist. Pebble wurde erst von Fitbit übernommen und Fitbit gehört mittlerwe… [+2382 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Boston Globe"
+    },
+    "author": "SAM METZ",
+    "title": "Gwyneth Paltrow ski collision trial set for family testimony",
+    "description": "The daughters of a man suing Gwyneth Paltrow are expected to appear on Thursday as a trial about the pair’s 2016 ski collision continues.",
+    "url": "https://www.bostonglobe.com/2023/03/23/nation/gwyneth-paltrow-ski-collision-trial-set-family-testimony/",
+    "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/ZCUKKBF00-_kFZMxtQrthkqwkW8=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6E5DVOUWSSZMVHM5TGFLXSSDAM.jpg",
+    "publishedAt": "2023-03-23T05:15:38Z",
+    "content": "SALT LAKE CITY (AP) The two daughters of a retired optometrist suing Gwyneth Paltrow are expected to testify on Thursday about their lasting effects of their father and Paltrows 2016 ski collision as… [+1982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "International Business Times"
+    },
+    "author": "Marvie Basilan",
+    "title": "Tech Layoffs: Job Listing Sites Indeed And Glassdoor To Cut 15% Of Their Workforces",
+    "description": "The widespread tech industry downturn is affecting job postings, resulting in workforce reductions from job listing providers.",
+    "url": "https://www.ibtimes.com/tech-layoffs-job-listing-sites-indeed-glassdoor-cut-15-their-workforces-3679628",
+    "urlToImage": "https://d.ibtimes.com/en/full/4435984/job-search.jpg",
+    "publishedAt": "2023-03-23T04:18:54Z",
+    "content": "KEY POINTS\r\n<ul><li>Indeed CEO Chris Hyams took \"sole accountability\" for the layoffs and said he would take a 25% pay cut</li><li>Glassdoor CEO Christian Sutherland-Wong said it's \"just the beginnin… [+5074 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "iCloud疑出包！Apple Music驚見「他人歌單」 - yamNews蕃新聞",
+    "description": "<ol><li>iCloud疑出包！Apple Music驚見「他人歌單」  yamNews蕃新聞\r\n</li><li>我的歌單不是我的歌單？陌生人入侵Apple Music恐iCloud搞鬼網酸：新協作功能嗎| 聯合新聞網  聯合新聞網\r\n</li><li>嚇死！蘋果又出包！Apple Music竟出現「陌生人的歌單」  Yahoo奇摩新聞\r\n</li><li>前往 Google 新聞查看完整報導</li></ol>",
+    "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vbi55YW0uY29tL0FydGljbGUvMjAyMzAzMjM4NDE2MjHSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage": null,
+    "publishedAt": "2023-03-23T02:58:00Z",
+    "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "m7000",
+    "title": "Apple、週3日のオフィス勤務を従業員に厳守させるため取り締まりを強化",
+    "description": "米Appleは、オフィス復帰後は従業員に対して最低でも週3日のオフィス勤務を義務化していますが、同社は、このポリシーが遵守されるよう取り締まりを強化していると報じられています。\n \nPlatformerの編集長であるゾーイ・シファー氏によると、同社は従業員に週3日のオフィス勤務を厳守させるため、社員バッジの記録を通じて出勤状況を厳しく監視しているということです。週3日勤務していない従業員には、段階的に警告が与えられます。\n一部の部門では解雇される可能性も\nシファー氏はまた、Apple全体の方針ではないものの、一部…",
+    "url": "https://iphone-mania.jp/news-529475/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/10/28/open_graph_logo.png",
+    "publishedAt": "2023-03-23T04:05:11Z",
+    "content": "NEW: Apple is tracking employee attendance (via badge records) and will give employees escalating warnings if they don't come in 3x per week.\r\nALSO: Elon Musk sent Twitter employees an email at 2:30a… [+132 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "Ross Wang",
+    "title": "iOS 16.4 來了！超過 6 個貼心新功能降臨（該升級嗎？看這裡！）",
+    "description": "經過了一系列的 Beta 測試，進化帶來超多新功能的 iOS 16.4 在今天釋出了很接近正式版本的 RC 版本。雖然從 iOS 16.4 的描述，好像會覺得這次只有新增了表情符號，感覺有點普普（多達 21 個！這樣有興奮嗎～咦）。不過這次的更新其實包含多項有趣的新功能。繼續閱讀 iOS 16.4 來了！多達 6 項貼心新功能降臨（該升級嗎？看這裡！）報導內文。\nThe post iOS 16.4 來了！超過 6 個貼心新功能降臨（該升級嗎？看這裡！） appeared first on 電腦王阿達.",
+    "url": "https://www.kocpc.com.tw/archives/485332",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2023/03/1679540544-0f32ea3617a70c38fa2ea71200bf8bbb.jpg",
+    "publishedAt": "2023-03-23T03:12:04Z",
+    "content": "Beta iOS 16.4 RC iOS 16.4 21 iOS 16.4 6 \r\n Beta iOS 16.4 / iPadOS 16.4 RC iOS 16.4 21 \r\n iOS / iPadOS Public Beta &gt; &gt; Beta iOS Public Beta \r\niOS 16.4 – \r\n iOS 16.4 \r\nVoice Isolation\r\niPhone Fac… [+1159 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sopitas.com"
+    },
+    "author": "Andrés Vilchis",
+    "title": "WhatsApp permitirá videollamadas de 8 personas y llamadas de 32 personas desde la computadora",
+    "description": "Con el tiempo, ha dejado de ser una app exclusiva de celulares ya que a mucha gente le acomoda más en su versión de escritorio o...\nThe post WhatsApp permitirá videollamadas de 8 personas y llamadas de 32 personas desde la computadora appeared first on Sopita…",
+    "url": "https://www.sopitas.com/geek/whatsapp-videollamadas-8-personas-nueva-funcion-escritorio-windows/",
+    "urlToImage": "https://www.sopitas.com/wp-content/uploads/2023/03/whatsapp-videollamadas-8-personas-nueva-funcion-escritorio-windows-.jpg",
+    "publishedAt": "2023-03-23T00:08:06Z",
+    "content": "Con el tiempo, ha dejado de ser una app exclusiva de celulares ya que a mucha gente le acomoda más en su versión de escritorio o laptop. Justo por eso, WhatsAppampliará sus funciones de videollamadas… [+3365 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Mac Observer"
+    },
+    "author": "Jeff Butts",
+    "title": "Parallels vs UTM: Which Runs Windows Better on M1/M2 Macs",
+    "description": "If you’re looking to run Windows on your Apple Silicon Mac, you have a few options. Two of the easiest to use are Parallels Desktop and UTM. So, the question is, which will prove better at running Windows on your M1 or M2-powered Mac? Read on as I compare Par…",
+    "url": "https://www.macobserver.com/tips/deep-dive/parallels-vs-utm-which-runs-windows-better-on-m1m2-macs/",
+    "urlToImage": "https://www.macobserver.com/wp-content/uploads/2023/03/Parallels-vs-UTM-Which-Runs-Windows-Better-on-M1-M2-Macs.jpeg",
+    "publishedAt": "2023-03-23T00:18:18Z",
+    "content": "If youre looking to run Windows on your Apple Silicon Mac, you have a few options. Two of the easiest to use are Parallels Desktop and UTM. So, the question is, which will prove better at running Win… [+5496 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Aristeguinoticias.com"
+    },
+    "author": "Redacción AN / OR",
+    "title": "Lanza Gorillaz visuales de ‘Tormenta’ con Bad Bunny | Video",
+    "description": "Mientras “El conejo malo” interpreta el sencillo, en un camino lleno de efectos visuales explosivos, con sus orejas blancas, barba, un piercing en la nariz y lentes de sol, los populares y queridos personajes de Gorillaz lo acompañan.",
+    "url": "https://aristeguinoticias.com/2203/kiosko/lanza-gorillaz-visuales-de-tormenta-con-bad-bunny-video/",
+    "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/03/lanza-gorillaz-visuales-cancion-tormenta-bad-bunny-video-youtube-22032023-.jpg",
+    "publishedAt": "2023-03-23T00:32:53Z",
+    "content": "La banda británica Gorillaz lanzó en sus plataformas digitales un nuevo video donde muestra al cantautor puertorriqueño Bad Bunny junto a los personajes de la agrupación musical.\r\nEl video, que recre… [+1621 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Mikey G",
+    "title": "Quick Charge Podcast: March 22, 2023",
+    "description": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\n\r\n\n more…\nThe post Quick Charge Podcast: March 22, 2023 appeared first on …",
+    "url": "https://electrek.co/2023/03/22/quick-charge-podcast-march-22-2023/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/01/quick-charge-placeholder-lead-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-03-23T01:15:33Z",
+    "content": "Listen to a recap of the top stories of the day from Electrek. Quick Charge is available now on Apple Podcasts, Spotify, TuneIn and our RSS feed for Overcast and other podcast players.\r\nSponsored by … [+833 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com.mx"
+    },
+    "author": "Gonzalo Hernández",
+    "title": "WhatsApp tiene nueva app para Windows que soporta videollamadas de hasta 8 personas y 32 en formato de audio",
+    "description": "WhatsApp ha actualizado su aplicación para Windows, aumentando los límites para las llamadas de audio y de video, además de mejorar la velocidad de respuesta para quienes lo usan en escritorio.\n<!-- BREAK 1 -->\nLa nueva aplicación, dice WhatsApp, carga más rá…",
+    "url": "https://www.xataka.com.mx/aplicaciones/whatsapp-tiene-nueva-app-para-windows-que-soporta-videollamadas-8-personas-32-formato-audio",
+    "urlToImage": "https://i.blogs.es/e9489b/whatsapp-videollamadas/840_560.jpeg",
+    "publishedAt": "2023-03-23T02:05:50Z",
+    "content": "WhatsApp ha actualizado su aplicación para Windows, aumentando los límites para las llamadas de audio y de video, además de mejorar la velocidad de respuesta para quienes lo usan en escritorio.\r\nLa n… [+1189 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tabkul.com"
+    },
+    "author": "タブクル管理人",
+    "title": "8bitDo製コントローラー、Appleで正式サポートに",
+    "description": "8bitDoは日本時間2023年3月22日、公式サイトとYouTube公式チャンネルで同社の一部製品がmacOS / iOS / iPadOS / tvOSで正式にサポートされたと発表した。 海外メディアでは8bitDo […]",
+    "url": "https://tabkul.com/?p=277821",
+    "urlToImage": null,
+    "publishedAt": "2023-03-23T00:52:37Z",
+    "content": "2023/03/23 \r\n :\r\n , , \r\n8bitDo2023322YouTubemacOS / iOS / iPadOS / tvOS\r\n8bitDo\r\nMac miniNintendo Switch8bitDo Pro 2"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Lizette Chapman, Anna Edgerton and Alex Barinka",
+    "title": "China Hawks Dine on Seared Branzino And Lament Threat to US",
+    "description": "(Bloomberg) -- Peter Thiel likened US-China ties to a codependent marriage and lamented the rise of TikTok at a dinner for venture capitalists and lawmakers ...",
+    "url": "https://news.yahoo.com/china-hawks-dine-seared-branzino-042349876.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xX8dCcqYs0pLU1XcVMmXbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_politics_602/942b0fa9d204180f970b3722c67b8205",
+    "publishedAt": "2023-03-23T04:23:49Z",
+    "content": "(Bloomberg) -- Peter Thiel likened US-China ties to a codependent marriage and lamented the rise of TikTok at a dinner for venture capitalists and lawmakers a day before the apps chief executive test… [+3106 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Demorgen.be"
+    },
+    "author": "Dries Vermeulen",
+    "title": "▶ Deze oplossingen voor het klimaatprobleem liggen binnen handbereik: ‘De tijd dringt, maar onze bol zal niet ontploffen’",
+    "description": "Nog maar eens alarmbellen: het VN-klimaatpanel herhaalde deze week dat de tijd dringt om het klimaatprobleem ernstig aan te pakken. ‘De keuzes die ...",
+    "url": "https://www.demorgen.be/podcasts/deze-oplossingen-voor-het-klimaatprobleem-liggen-binnen-handbereik-de-tijd-dringt-maar-onze-bol-zal-niet-ontploffen~b7c349af/",
+    "urlToImage": "https://images0.persgroep.net/rcs/ZJjdrH0Jg7y6LIHeGvNIhazE5rI/diocontent/228858472/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8",
+    "publishedAt": "2023-03-23T02:01:01Z",
+    "content": "Duidelijk, een podcast van De Morgen\r\nBeluister elke donderdag een nieuwe aflevering in de app van De Morgen.\r\nVragen, opmerkingen of suggesties? Mail naar podcasts@demorgen.be.\r\nGasten: Barbara Debu… [+158 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizchina.com"
+    },
+    "author": "Abid Ahsan Shanto",
+    "title": "Amazfit T-Rex Ultra Takes on Apple Watch Ultra With Cranked-Up Features",
+    "description": "You might not have heard much about Amazfit. But the brand has been in the market for six or seven years. And over time, it ...\nThe post Amazfit T-Rex Ultra Takes on Apple Watch Ultra With Cranked-Up Features appeared first on Gizchina.com.",
+    "url": "https://www.gizchina.com/2023/03/23/amazfit-t-rex-ultra-takes-on-apple-watch-ultra-with-cranked-up-features/",
+    "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/03/Amazfit-T-Rex-Ultra-1200x599.jpg",
+    "publishedAt": "2023-03-23T04:55:59Z",
+    "content": "You might not have heard much about Amazfit. But the brand has been in the market for six or seven years. And over time, it has built a lineup of affordable fitness wearables and great smartwatches. … [+3404 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CounterPunch"
+    },
+    "author": "Robert Fantina",
+    "title": "The Great Land Grab: Indian Occupied Kashmir",
+    "description": "India basically confiscated Jammu and Kashmir in August of 2019.  This is not to minimize in any way the suffering that the people of Jammu and Kashmir experienced under seven decades of Indian oppression. In October of 2019, India enacted new laws, and amend…",
+    "url": "https://www.counterpunch.org/2023/03/23/the-great-land-grab-indian-occupied-kashmir/",
+    "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2021/06/cp-default-share.png",
+    "publishedAt": "2023-03-23T04:21:21Z",
+    "content": "India basically confiscated Jammu and Kashmir in August of 2019.  This is not to minimize in any way the suffering that the people of Jammu and Kashmir experienced under seven decades of Indian oppre… [+5697 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Origo.hu"
+    },
+    "author": null,
+    "title": "Körvonalazódik az új iPhone-ok legrizikósabb újdonsága",
+    "description": "Továbbra is úgy néz ki, hogy az iPhone 15 Pro modellek már érintős gombokkal érkeznek, a némítógomb sem kivétel.",
+    "url": "https://www.origo.hu/techbazis/20230322-apple-iphone-15-pro-taptic-gomb-erintos.html",
+    "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2303/20230322iphone-15-pro-tervreszlet2.jpg?w=1024",
+    "publishedAt": "2023-03-23T05:30:00Z",
+    "content": "Továbbra is úgy néz ki, hogy az iPhone 15 Pro modellek már érints gombokkal érkeznek, a némítógomb sem kivétel.Újabb renderelt tervek kerültek el az Apple nagy ötletérl, amelyek szerint az iPhone 15 … [+571 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ithome.com"
+    },
+    "author": null,
+    "title": "Anker 发布 737 三合一充电器：支持多设备 MagGo 充电，155 美元",
+    "description": "IT之家 3 月 23 日消息，Anker 推出 737 MagGo 三合一充电器，可同时为 iPhone、Apple Watch 以及 AirPods 充电，售价为 155 美元（IT之家备注：当前约 1066 元人民币）。具体来看，Anker 737 MagGo 三合一充电器整体外形采用三角形设计，尺寸为 4.2*4.5*3.9 英寸，重量为 386g，并配有 30W USB Type-C 充电器。这款 MagGo 三合一充电器共有三个充电端口，正面为一个 MagSafe 无线充电板，可以 15W 的功率对 …",
+    "url": "https://www.ithome.com/0/681/668.htm",
+    "urlToImage": null,
+    "publishedAt": "2023-03-23T01:37:44Z",
+    "content": "IT 3 23 Anker 737 MagGo iPhoneApple Watch AirPods 155 IT 1066 \r\nAnker 737 MagGo 4.2*4.5*3.9 386g 30W USB Type-C \r\nMagGo MagSafe 15W iPhone Apple Watch AirPods \r\nAnker"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Arigato-ipod.com"
+    },
+    "author": "Ygn",
+    "title": "【ニュース】歩行者によるAppleマップの画像収集を日本国内で再開。札幌市、町田市、横浜市、岡山市などで",
+    "description": "AppleがAppleマップの画像収集作業について、「バックパックを用いてのデータ収集」の予定をアナウンスしています。 Appleマップに品質向上と、周囲を見回すLook Around機能のために、画像データを集めるもの...\nThe post 【ニュース】歩行者によるAppleマップの画像収集を日本国内で再開。札幌市、町田市、横浜市、岡山市などで first appeared on アイアリ.",
+    "url": "https://arigato-ipod.com/2023/03/apple-map-image-collection-in-japan-pedestrian-mar-2023.html",
+    "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2023/03/230323applemapimagecollection.jpg",
+    "publishedAt": "2023-03-23T03:01:05Z",
+    "content": "AppleがAppleマップの画像収集作業について、「バックパックを用いてのデータ収集」の予定をアナウンスしています。\n\nAppleマップに品質向上と、周囲を見回すLook Around機能のために、画像データを集めるものです。\n「バックパックを用いてのデータ収集」は、バックパックに搭載されたカメラとスキャナーを使って、徒歩によりデータ収集が行われます。\n\n3月10日〜6月30日にかけて、以下の… [+585 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Droidsans.com"
+    },
+    "author": "Xyanyde",
+    "title": "iPhone 15 Pro / Pro Max จะมากับตัวเครื่องไทเทเนี่ยม พร้อมปุ่มระบบสัมผัส Solid-state button",
+    "description": "ข้อมูลล่าสุดของ iPhone 15 Series ชุดใหม่ โผล่ออกมาอีกแล้ว คราวนี้เป็นภาพเรนเดอร์พร้อมข้อมูลคร่าว ๆ ว่ามันจะมีตัวเครื่องที่ทนทานกว่าเดิม เพราะเปลี่ยนมาใช้วัสดุที่เป็นไทเทเนี่ยม แถมยังจะมากับฟีเจอร์ล้ำ ๆ อย่างปุ่มระบบสัมผัส Solid-state button อีกต่างหาก ก่อนนี้…",
+    "url": "https://droidsans.com/iphone-15-pro-coming-with-solid-state-button-titanium-frame/",
+    "urlToImage": "https://images.droidsans.com/wp-content/uploads/2023/03/ip15-cover-1000x600.jpg",
+    "publishedAt": "2023-03-23T04:41:56Z",
+    "content": "iPhone 15 Series Solid-state button \r\n iPhone 15 Series iPhone 15, iPhone 15 Pro iPhone 15 Pro Max ( Plus) 3 i 4 1.55 . 1.5 .\r\niPhone 15 iPhone 15 Plus 60Hz Always-on Display Apple A17 Pro A16 \r\n iPh… [+74 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Activistpost.com"
+    },
+    "author": "Activist Post",
+    "title": "CBDC: Can States Stop a Central Bank Digital Currency?",
+    "description": "By Michael Boldin The only thing that can actually keep them in check and stop this dystopian nightmare is opposition and resistance. Can states help...\nCBDC: Can States Stop a Central Bank Digital Currency?",
+    "url": "https://www.activistpost.com/2023/03/cbdc-can-states-stop-a-central-bank-digital-currency.html",
+    "urlToImage": "https://www.activistpost.com/wp-content/uploads/2023/03/cbdc-null-1024x576-1.jpg",
+    "publishedAt": "2023-03-23T01:23:32Z",
+    "content": "By Michael Boldin\r\nThe only thing that can actually keep them in check and stop this dystopian nightmare is opposition and resistance. Can states help get the job done?\r\nToo early to tell, but the ti… [+1159 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Independent.ie"
+    },
+    "author": "Karl Henry",
+    "title": "Real Health Podcast: Making one simple change to improve your health",
+    "description": "If I was to ask you: what do you need to do to improve your health, what would you say? You might suggest a complete overhaul of your diet. Or you might instantly think that hitting the gym multiple times a week is a must.",
+    "url": "https://www.independent.ie/podcasts/the-real-health-podcast/real-health-podcast-making-one-simple-change-to-improve-your-health-42400059.html",
+    "urlToImage": "https://www.independent.ie/incoming/14881/42400061.ece/AUTOCROP/w1240h700/RH%20one%20change%2016x9%20image.jpg",
+    "publishedAt": "2023-03-23T02:30:00Z",
+    "content": "If I was to ask you: what do you need to do to improve your health, what would you say? You might suggest a complete overhaul of your diet. Or you might instantly think that hitting the gym multiple … [+1387 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Uol.com.br"
+    },
+    "author": "RFI",
+    "title": null,
+    "description": "\"É chocante que uma empresa esteja lucrando mais de US$ 161 bilhões em um ano com a venda de combustíveis fósseis, o principal fator da crise climática\". Esta foi a reação da secretária-geral da Anistia Internacional, Agnès Callamard, diante do anúncio de",
+    "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/rfi/2023/03/22/e-chocante-que-uma-empresa-lucre-us-161-bilhoes-com-combustiveis-fosseis.htm",
+    "urlToImage": "https://conteudo.imguol.com.br/c/noticias/12/2022/03/11/campo-de-producao-de-petroleo-1647042930980_v2_615x300.jpg",
+    "publishedAt": "2023-03-23T00:39:44Z",
+    "content": "\"É chocante que uma empresa esteja lucrando mais de US$ 161 bilhões em um ano com a venda de combustíveis fósseis, o principal fator da crise climática\". Esta foi a reação da secretária-geral da Anis… [+2255 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Minatokobe.com"
+    },
+    "author": "酔いどれ",
+    "title": "Apple、リモートワークの取り締まりを強化、バッジ記録による出勤管理を導入",
+    "description": "Appleは、従業員がオフィスに週に最低3回出社しているかを確認するため、バッジ記録による出勤管理を強化し、対面勤務を求める方針を厳格化しているそうです ジャーナリストのZoë Schiffer氏によると、Appleは、対面勤務の要件を満たしていない場合、従業員に対して「警告」を与え、遵守しない場合には解雇の可能性があるとのことです NEW: Apple is tracking employee attendance (via badge records) and will give employees esca…",
+    "url": "https://minatokobe.com/wp/apple/post-88545.html",
+    "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2023/03/2023-03-23_11-46-02.jpg",
+    "publishedAt": "2023-03-23T02:48:32Z",
+    "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 14 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.fr"
+    },
+    "author": "Antoine Engels",
+    "title": "Test du Huawei Mate 50 Pro: Impossible à recommander",
+    "description": "Dans ce test complet du Huawei Mate 50 Pro, je vous donne mon avis sur le dernier flagship du fabricant chinois toujours privé de services Google (GMS).(Ceci est un teaser - cliquez ici pour lire l'article en entier)",
+    "url": "https://www.nextpit.fr/dummy-huawei-mate-50-pro-test-complet",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7640001/image/Huawei-Mate-50-Pro/NextPit_Huawei-Mate-50-Pro-Back.jpg",
+    "publishedAt": "2023-03-23T00:00:01Z",
+    "content": "Le Huawei Mate 50 Pro que j'ai testé est le dernier smartphone haut de gamme du fabricant chinois. Il est toujours aussi cher puisqu'il coûte plus de 1000 euros. Il est toujours aussi limité par l'ab… [+18478 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Letemsvetemapplem.eu"
+    },
+    "author": "Jiří Filip",
+    "title": "Už žádné duplicity! iOS 16.4 přináší jednu z nejužitečnějších novinek loňska na iCloud",
+    "description": "Ačkoliv se ještě před pár dny zdálo, že toho iOS 16.4 příliš mnoho zajímavého nepřinese, opak je pravdou. Ke spoustě nových emoji, podpoře webových push notifikací či třeba režimu pro zkvalitnění GSM hovorů totiž v systému dorazí i upgrade jedné z nejlepších …",
+    "url": "https://www.letemsvetemapplem.eu/2023/03/23/uz-zadne-duplicity-ios-16-4-prinasi-jednu-z-nejuzitecnejsich-novinek-lonska-na-icloud/",
+    "urlToImage": "https://www.letemsvetemapplem.eu/wp-content/uploads/2022/10/fotky-ipados16-fb.jpg",
+    "publishedAt": "2023-03-23T05:00:44Z",
+    "content": "Akoliv se jet ped pár dny zdálo, e toho iOS 16.4 píli mnoho zajímavého nepinese, opak je pravdou. Ke spoust nových emoji, podpoe webových push notifikací i teba reimu pro zkvalitnní GSM hovor toti v … [+853 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Apfelpage.de"
+    },
+    "author": "Tobias Wachinger",
+    "title": "iOS 16.4 lässt Kontaktverfolgung durch Behörden abschalten | Unfallerkennung wird verbessert – Daybreak Apple",
+    "description": "Einen wundervollen guten Morgen! Heute berichten wir euch über neue Funktionen und Verbesserungen in iOS 16.4, Kontaktverfolgung durch Behörden lässt sich deaktivieren und die Unfallerkennung wird verbessert. Das und mehr gleich hier!  Kontaktverfolgung deakt…",
+    "url": "https://www.apfelpage.de/news/ios-16-4-laesst-kontaktverfolgung-durch-behoerden-abschalten-unfallerkennung-wird-verbessert-daybreak-apple/",
+    "urlToImage": "https://www.apfelpage.de/wp-content/uploads/2021/01/DayBreak.png",
+    "publishedAt": "2023-03-23T05:00:08Z",
+    "content": "Einen wundervollen guten Morgen! Heute berichten wir euch über neue Funktionen und Verbesserungen in iOS 16.4, Kontaktverfolgung durch Behörden lässt sich deaktivieren und die Unfallerkennung wird ve… [+1360 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Wccftech"
+    },
+    "author": "Omar Sohail",
+    "title": "Apple Is Using Badge Records To Track Employee Attendance, Giving ‘Escalating Warnings’ To Those Who Miss Work On-Site",
+    "description": "In addition to cutting costs and retaining employees in the process, Apple is striking down hard on in-person attendance, as it likely wants to increase productivity out of the existing headcount. Attendance of these employees is said to be tracked through ba…",
+    "url": "https://wccftech.com/apple-tracking-employee-attendance-through-badge-records/",
+    "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/03/Apple-office.jpg",
+    "publishedAt": "2023-03-23T00:06:09Z",
+    "content": "In addition to cutting costs and retaining employees in the process, Apple is striking down hard on in-person attendance, as it likely wants to increase productivity out of the existing headcount. At… [+2295 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Intego.com"
+    },
+    "author": "Kirk McElhearn",
+    "title": "What are Passkeys, and how do they work?",
+    "description": "Passkeys may replace passwords in the relatively near future. Learn what passkeys are and how you can use them on your Mac, iPhone, and iPad.\nThe post What are Passkeys, and how do they work? appeared first on The Mac Security Blog.",
+    "url": "https://www.intego.com/mac-security-blog/what-are-passkeys-and-how-do-they-work/",
+    "urlToImage": "https://www.intego.com/mac-security-blog/wp-content/uploads/2023/03/passkeys-hero-420.jpg",
+    "publishedAt": "2023-03-23T04:21:44Z",
+    "content": "How To\r\nPosted on\r\nMarch 22nd, 2023 by\r\nKirk McElhearn\r\nWhen Apple released iOS 16 and macOS Ventura in late 2022, they introduced support for passkeys. Passkeys are an authentication technology desi… [+12222 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "California considers ban on caste discrimination",
+    "description": "California could become the first US state to make caste discrimination illegal if a new bill is passed.",
+    "url": "https://www.bbc.co.uk/news/world-asia-india-65048026",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148F1/production/_129090248_d4195b9e-50db-4fe9-8294-9c6d4a733c36.jpg",
+    "publishedAt": "2023-03-23T05:27:15Z",
+    "content": "On Wednesday, a California lawmaker introduced a bill to make caste discrimination illegal in the state's senate. If it's passed, California - home to some of the world's biggest tech companies - wil… [+6000 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "US firms 'more negative' about doing business in China",
+    "description": "Five years since the trade war started, American firms seem less inclined to invest in China.",
+    "url": "https://www.bbc.co.uk/news/business-65034881",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18503/production/_129078599_gettyimages-1244770418.jpg",
+    "publishedAt": "2023-03-23T00:07:14Z",
+    "content": "US companies are \"more negative than they've been in a long time\" about doing business in China, according to the president of the American Chamber of Commerce in China (AmCham China).\r\nAs tensions c… [+8151 chars]"
+    },
+    {
+    "source": {
+    "id": "nbc-news",
+    "name": "NBC News"
+    },
+    "author": "The Associated Press",
+    "title": "Gwyneth Paltrow ski collision trial continues with doctors on the stand",
+    "description": "Two doctors on Wednesday described X-rays, brain scans and neurological tests documenting the medical condition of a man suing Gwyneth Paltrow for a 2016 ski collision at an upscale Utah ski resort.",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/gwyneth-paltrow-ski-collision-trial-doctors-take-stand-rcna76255",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230322-Gwyneth-Paltrow-court-ac-911p-efd931.jpg",
+    "publishedAt": "2023-03-23T01:21:58Z",
+    "content": "PARK CITY, Utah Two doctors on Wednesday described X-rays, brain scans and neurological tests documenting the medical condition of a man suing Gwyneth Paltrow for a 2016 ski collision at an upscale U… [+4843 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "KELVIN CHAN and HALELUYA HADERO Associated Press",
+    "title": "TikTok CEO faces off with Congress over security fears",
+    "description": "The CEO of TikTok will make a high-profile appearance Thursday before a U.S. Congressional committee to make the case for why the hugely popular video-sharing app shouldn’t be banned",
+    "url": "https://abcnews.go.com/Politics/wireStory/tiktok-ceo-faces-off-congress-security-fears-98063092",
+    "urlToImage": "https://s.abcnews.com/images/US/wirestory_44d948c5b0ba18e2a714e0fa62d52779_16x9_992.jpg",
+    "publishedAt": "2023-03-23T04:12:53Z",
+    "content": "WASHINGTON -- The CEO of TikTok will make a high-profile appearance Thursday before a U.S. Congressional committee, where he'll face a grilling on data security and user safety while he makes his own… [+4298 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Uxdesign.cc"
+    },
+    "author": "Michael Burnett",
+    "title": "The algebra of VALUE for startups",
+    "description": "Maybe I’m too excited… But still, this is based on established financial analysis practices, expanded to put cold, hard math around the guts & heart aspects of startup strategy. So, it’s pretty rad…",
+    "url": "https://uxdesign.cc/the-algebra-of-value-for-startups-cfadea34ed3b",
+    "urlToImage": "https://miro.medium.com/v2/resize:fit:658/0*kOqjjUNxoEmxQPTO",
+    "publishedAt": "2023-03-23T04:19:46Z",
+    "content": "The algebra of VALUE for startups\r\nIm pretty excited about this VALUE is not just an acronym here; its an equation!\r\nFrom Disney, via giphy.com. (Giphy terms of service)\r\nMaybe Im too excited But sti… [+9605 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "KELVIN CHAN and HALELUYA HADERO Associated Press",
+    "title": "TikTok CEO faces off with Congress over security fears",
+    "description": "The CEO of TikTok will make a high-profile appearance Thursday before a U.S. Congressional committee to make the case for why the hugely popular video-sharing app shouldn’t be banned",
+    "url": "https://abcnews.go.com/US/wireStory/tiktok-ceo-faces-off-congress-security-fears-98063089",
+    "urlToImage": "https://s.abcnews.com/images/US/wirestory_44d948c5b0ba18e2a714e0fa62d52779_16x9_992.jpg",
+    "publishedAt": "2023-03-23T04:02:56Z",
+    "content": "WASHINGTON -- The CEO of TikTok will make a high-profile appearance Thursday before a U.S. Congressional committee, where he'll face a grilling on data security and user safety while he makes his own… [+4298 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "SAM METZ Associated Press",
+    "title": "Gwyneth Paltrow ski collision trial set for family testimony",
+    "description": "The daughters of a man suing Gwyneth Paltrow are expected to appear on Thursday as a trial about the pair’s 2016 ski collision continues",
+    "url": "https://abcnews.go.com/US/wireStory/gwyneth-paltrow-ski-collision-trial-set-family-testimony-98064072",
+    "urlToImage": "https://s.abcnews.com/images/US/wirestory_572ec8ab27ee4f3068cfa065bb08725a_12x5_992.jpg",
+    "publishedAt": "2023-03-23T05:47:15Z",
+    "content": "PARK CITY, Utah -- Two daughters of a retired optometrist suing Gwyneth Paltrow are expected to testify on Thursday about the lasting effects of their father and Paltrow's 2016 ski collision as the t… [+1993 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gadgets360.com"
+    },
+    "author": "Pranav Hegde, David Delima",
+    "title": "Redmi Note 12 Turbo Visits Geekbench as Company Confirms Official Specifications Ahead of Launch",
+    "description": "Redmi Note 12 Turbo is set to launch on March 28 in China. Ahead of the launch, the phone is confirmed to feature a Qualcomm Snapdragon 7+ Gen 2 SoC. Xiaomi has now confirmed that the phone will pack a 5,000mAh battery. It is also confirmed to feature a 3.5mm…",
+    "url": "https://www.gadgets360.com/mobiles/news/redmi-note-12-turbo-specifications-confirmed-geekbench-snapdragon-7-plus-gen-2-soc-xiaomi-3885588",
+    "urlToImage": "https://i.gadgets360cdn.com/large/Redmi_Note_12_Turbo_1679548345870.jpg",
+    "publishedAt": "2023-03-23T05:14:13Z",
+    "content": "Redmi Note 12 Turbo is set to launch on March 28 in China. The upcoming addition to the company's Note 12 series of smartphones will feature the new Snapdragon 7+ Gen 2 SoC, which was announced by Qu… [+2346 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gadgets360.com"
+    },
+    "author": "Reuters",
+    "title": "Meta's Vice President of Business Messaging Departs Amid 'Year of Efficiency', Pruning of Projects",
+    "description": "Meta's Vice President of Business Messaging, Dan Levy, will leave the company in May, the company has confirmed. The senior executive's business messaging project was flagged by Meta CEO Mark Zuckerberg for growth potential, even though he was replaced last y…",
+    "url": "https://www.gadgets360.com/social-networking/news/meta-dan-levy-resignation-vice-president-business-messaging-mark-zuckerberg-year-of-efficiency-3885597",
+    "urlToImage": "https://i.gadgets360cdn.com/large/meta_reuters_1679548663250.jpg",
+    "publishedAt": "2023-03-23T05:16:30Z",
+    "content": "A veteran Meta advertising product executive will leave the company in May, according to an internal announcement seen by Reuters, amid a months-long pruning of projects and staff that Chief Executiv… [+2963 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gadgets360.com"
+    },
+    "author": "ANI",
+    "title": "India Must Take Lead in 6G Technology, Says IT Minister Ashwini Vaishnaw",
+    "description": "Highlighting the country's stride in technology and innovation Union Minister Ashwini Vaishnaw on Wednesday asserted that India should lead the world in 6G technology. Vaishnaw attended the Communication Ministers' Conclave held in New Delhi, with the theme o…",
+    "url": "https://www.gadgets360.com/telecom/news/india-lead-6g-technology-union-it-minister-ashwini-vaishnaw-3885624",
+    "urlToImage": "https://i.gadgets360cdn.com/large/6g_representational_image_unsplash_1679549462201.jpg",
+    "publishedAt": "2023-03-23T05:31:05Z",
+    "content": "Highlighting the country's stride in technology and innovation Union Minister Ashwini Vaishnaw on Wednesday asserted that India should lead the world in 6G technology. Vaishnaw attended the Communica… [+3292 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gadgets360.com"
+    },
+    "author": "Reuters",
+    "title": "TikTok Creators, US Lawmakers Oppose Potential Ban on Chinese-Owned Video Sharing App",
+    "description": "TikTok, the Chinese-owned short video sharing platform, could face a ban in the US, and creators along with some US Democratic Party lawmakers have opposed the possible ban on the service. The popular app, which has over 150 million users in the country, is f…",
+    "url": "https://www.gadgets360.com/social-networking/news/tiktok-us-ban-oppose-creators-democratic-party-lawmakers-national-security-concerns-3885523",
+    "urlToImage": "https://i.gadgets360cdn.com/large/tiktok_bytedance_logo_reuters_1679546860715.jpg",
+    "publishedAt": "2023-03-23T04:48:52Z",
+    "content": "TikTok creators and three US Democratic Party lawmakers on Wednesday said they opposed any potential ban on the Chinese-owned short video sharing app that is used by more than 150 million Americans.\r… [+2708 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gadgets360.com"
+    },
+    "author": "Nithya P Nair, David Delima",
+    "title": "Samsung Galaxy M54 5G With 108-Megapixel Triple Rear Cameras, 6,000mAh Battery Unveiled: Specifications",
+    "description": "Samsung Galaxy M54 5G powered by Exynos 1380 SoC has been quietly unveiled by the company. It is currently listed on the company's website in the Middle East, but its pricing has not been shared. The smartphone gets a 108-megapixel triple rear camera setup an…",
+    "url": "https://www.gadgets360.com/mobiles/news/samsung-m54-5g-launch-specifications-triple-rear-cameras-6000mah-battery-galaxy-3885570",
+    "urlToImage": "https://i.gadgets360cdn.com/large/samsung_galaxy_m54_5g_1679548338278.jpg",
+    "publishedAt": "2023-03-23T05:08:08Z",
+    "content": "Samsung Galaxy M54 5G has been launched in the Middle East as the latest entrant in the company's Galaxy M series of smartphones. The new Samsung smartphone features a 6.7-inch full-HD+ Super AMOLED … [+2978 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "nbcnews.com",
+    "title": "Gwyneth Paltrow ski collision trial continues with doctors taking the stand",
+    "description": "PARK CITY, Utah — Two doctors on Wednesday described X-rays, brain scans and neurological tests documenting the medical condition of a man suing Gwyneth Paltrow for a 2016 ski collision at an upscale Utah ski resort. “After his accident, he deteriorated abrup…",
+    "url": "https://biztoc.com/x/3cbb4126c12c3d25",
+    "urlToImage": "https://c.biztoc.com/p/3cbb4126c12c3d25/og.webp",
+    "publishedAt": "2023-03-23T01:30:07Z",
+    "content": "PARK CITY, Utah Two doctors on Wednesday described X-rays, brain scans and neurological tests documenting the medical condition of a man suing Gwyneth Paltrow for a 2016 ski collision at an upscale U… [+307 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "npr.org",
+    "title": "We grade Fed Chair Jerome Powell",
+    "description": "We're putting Fed Chair Jerome Powell in the hot seat. Without fear and without favor, our guests look at Powell's record on jobs, inflation and financial stability. For sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via …",
+    "url": "https://biztoc.com/x/36126937953051c3",
+    "urlToImage": "https://c.biztoc.com/p/36126937953051c3/og.webp",
+    "publishedAt": "2023-03-23T00:47:54Z",
+    "content": "We're putting Fed Chair Jerome Powell in the hot seat. Without fear and without favor, our guests look at Powell's record on jobs, inflation and financial stability. For sponsor-free episodes of The … [+181 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "looper.com",
+    "title": "Ted Lasso Season 3 Has Fans Calling For Phil Dunster To Receive An Emmy",
+    "description": "Ted Lasso Season 3 Has Fans Calling For Phil Dunster To Receive An Emmy \"Ted Lasso\" won plenty of love from the Emmy Awards before its third season – including two statues for Best Comedy Series – yet one person who hasn't found themselves nominated is Phil D…",
+    "url": "https://biztoc.com/x/363f745c9a3dca29",
+    "urlToImage": "https://c.biztoc.com/p/363f745c9a3dca29/og.webp",
+    "publishedAt": "2023-03-23T02:34:08Z",
+    "content": "Ted Lasso Season 3 Has Fans Calling For Phil Dunster To Receive An Emmy\"Ted Lasso\" won plenty of love from the Emmy Awards before its third season including two statues for Best Comedy Series yet one… [+313 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "benzinga.com",
+    "title": "Disney World To Host Gay Rights Summit Amid Row With DeSantis",
+    "description": "Walt Disney DIS World Resort in Florida is reportedly gearing up to hold the biggest LGBTQ+ conference in the world later this year. What Happened: Out & Equal – an activist group that campaigns for gay, lesbian and transgender rights in the workplace – will …",
+    "url": "https://biztoc.com/x/caf60fd974083fa2",
+    "urlToImage": "https://c.biztoc.com/p/caf60fd974083fa2/og.webp",
+    "publishedAt": "2023-03-23T04:08:06Z",
+    "content": "Walt Disney DIS World Resort in Florida is reportedly gearing up to hold the biggest LGBTQ+ conference in the world later this year.What Happened: Out &amp; Equal an activist group that campaigns for… [+316 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nieuwsblad.be"
+    },
+    "author": "Tom Vets",
+    "title": "Remake van ‘Clan’ genomineerd voor Bafta‘s",
+    "description": "De Bafta’s, de belangrijkste Britse prijzen voor televisieseries en acteurs, kunnen dit jaar een Vlaams tintje krijgen. Want er zijn meerdere nominaties voor Bad Sisters, de internationale remake van de legendarische VTM-serie Clan.",
+    "url": "https://www.nieuwsblad.be/cnt/dmf20230322_97279674",
+    "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2023/03/22/522b9a28-f32c-4920-95a2-99746a0bb078.jpg?maxheight=460&maxwidth=638",
+    "publishedAt": "2023-03-23T02:00:00Z",
+    "content": "De Baftas, de belangrijkste Britse prijzen voor televisieseries en acteurs, kunnen dit jaar een Vlaams tintje krijgen. Want er zijn meerdere nominaties voor Bad Sisters, de internationale remake van … [+1008 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Le Point"
+    },
+    "author": "Philippe Guedj",
+    "title": "Série - « Extrapolations », pluie de stars pour série apocalyptique",
+    "description": "Et aussi : le deuxieme roman de Philippe Ridet ; Richard Powers en poche ; enchantements balinais ; tout savoir sur le maquillage...",
+    "url": "https://www.lepoint.fr/culture/extrapolations-pluie-de-stars-pour-serie-apocalyptique-23-03-2023-2513161_3.php",
+    "urlToImage": "https://static.lpnt.fr/images/2023/03/23/24307323lpw-24307356-article-jpg_9409039_1250x625.jpg",
+    "publishedAt": "2023-03-23T00:00:00Z",
+    "content": "Lecteurs éco-anxieux, fuyez Extrapolations ! Ou armez-vous d'une bonne dose d'antidépresseur : cette nouvelle série d'Apple TV + décrit, sur huit épisodes couvrant une période de trente-trois ans, le… [+9100 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "SAM METZ Associated Press",
+    "title": "Gwyneth Paltrow ski collision trial set for family testimony",
+    "description": "The daughters of a man suing Gwyneth Paltrow are expected to appear on Thursday as a trial about the pair’s 2016 ski collision continues",
+    "url": "https://abcnews.go.com/Entertainment/wireStory/gwyneth-paltrow-ski-collision-trial-set-family-testimony-98064077",
+    "urlToImage": "https://s.abcnews.com/images/US/wirestory_572ec8ab27ee4f3068cfa065bb08725a_12x5_992.jpg",
+    "publishedAt": "2023-03-23T05:18:15Z",
+    "content": "SALT LAKE CITY -- The two daughters of a retired optometrist suing Gwyneth Paltrow are expected to testify on Thursday about their lasting effects of their father and Paltrow's 2016 ski collision as … [+1986 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "POPSUGAR"
+    },
+    "author": "Anvita Reddy",
+    "title": "Sony's New Noise-Canceling Headphones Are Worth the Splurge - Here's Why",
+    "description": "Finding a quality pair of noise-canceling headphones that are truly noise canceling is a challenge. I've been on the hunt for a pair for quite some time now, especially because my tolerance for snoring and crying babies is dwindling. After hearing Blume's cof…",
+    "url": "https://www.popsugar.com/tech/sony-wh-1000xm5-noise-canceling-headphones-review-49124455",
+    "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/Rc58b8_9JHjmhrF-2mwqcsahD-o/0x549:2189x1698/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/03/22/981/n/1922507/774f0894641b821eb044a9.93746987_.jpg",
+    "publishedAt": "2023-03-23T00:05:02Z",
+    "content": "Finding a quality pair of noise-canceling headphones that are truly noise canceling is a challenge. I've been on the hunt for a pair for quite some time now, especially because my tolerance for snori… [+6759 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "",
+    "title": "Inside a bank run",
+    "description": "Sometimes you hear these stories about an airplane that suddenly nosedives. Everyone onboard thinks this is it, and then the plane levels out and everything is fine. For about 72 hours, people and companies that had deposited millions of dollars at the Silico…",
+    "url": "https://www.npr.org/2023/03/21/1164979588/svb-collapse-bailout-startup-founder",
+    "urlToImage": "https://media.npr.org/assets/img/2023/03/22/img_0933_wide-2414839ecffeee26a18cea174bb9e51ed5c4eb94-s1400-c100.jpg",
+    "publishedAt": "2023-03-23T05:33:09Z",
+    "content": "Sometimes you hear these stories about an airplane that suddenly nosedives. Everyone onboard thinks this is it, and then the plane levels out and everything is fine. For about 72 hours, people and co… [+1328 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Reuters",
+    "title": "Senior Meta advertising executive departs amid efficiency drive",
+    "description": "Dan Levy, currently the social media giant's vice president of business messaging, said in a post to Meta's internal social network on Monday that he wanted to focus on family after losing a child to leukemia.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/senior-meta-advertising-executive-departs-amid-efficiency-drive/articleshow/98928431.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-98928449,width-1070,height-580,imgsize-40264,overlay-ettech/photo.jpg",
+    "publishedAt": "2023-03-23T02:36:14Z",
+    "content": "A veteran Meta advertising product executive will leave the company in May, according to an internal announcement seen by Reuters, amid a months-long pruning of projects and staff that Chief Executiv… [+2567 chars]"
+    }
+    ]
+    }
