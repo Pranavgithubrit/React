@@ -1,11 +1,12 @@
 import Navbar from './Component/Navbar'
+import {HashRouter} from 'react-router-dom'
 import TextForm from './Component/TextForm'
 import About from './Component/About'
 import React,{useState} from 'react'
 import './App.css'
 // import Alert from './Component/Alert'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
@@ -48,6 +49,8 @@ function App()
 }
   return(
     <>
+    <HashRouter>
+      <Route>
     <Router>
     <Navbar title="TextUtils" about="About Us" mode={mode} text={text} toggleMode={toggleMode}/>
     {/* <Alert alert={alert}/> */}
@@ -62,6 +65,8 @@ function App()
         </Switch>
     </div>
     </Router>
+    </Route>
+    </HashRouter>
   </>
   )
 }
